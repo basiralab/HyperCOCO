@@ -49,7 +49,7 @@ To access the complete dataset, please refer to the ABIDE (Autism Brain Imaging 
 
 ### 1. HyperCBT Generation with Reservoir Computing
 
-- **File**: `Hypercbt_generation.py`
+- **File**: `HyperCBT_generation.py`
 - **Goal**: Generate population-level HyperCBTs using RC
 
 ### 2. Multi-Sensory Memory Capacity Evaluation
@@ -73,9 +73,9 @@ pip install -r requirements.txt
 
 ## Run the Pipeline
 
-### 1. CBT Generation
+### 1. HyperCBT Generation
 ```bash
-python cbt_generation.py
+python HyperCBT_generation.py
 ```
 ### 1. CBT Generation
 ```bash
