@@ -1,0 +1,9 @@
+numpy>=1.23
+matplotlib>=3.6
+scikit-learn>=1.2
+scipy>=1.10
+torch>=2.0
+torchvision>=0.15
+librosa>=0.10
+Pillow>=9.5
+echoes
