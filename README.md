@@ -36,13 +36,18 @@ This work  has been accepted in Medical Image Analysis Journal 2026
 
 ## Dataset Description
 
-The dataset "ABIDE_subset" provided in this repository is a portion of the full dataset used in our study. It consists of preprocessed functional data from:
+The dataset "ABIDE_subset" provided in this repository is a portion of the full dataset used in our study. It consists of preprocessed functional data:
 
 - **73 individuals** with Autism Spectrum Disorder (ASD)
 - **77 typically developing (TD)** controls
   
 To access the complete dataset, please refer to the ABIDE (Autism Brain Imaging Data Exchange) website: [https://fcon_1000.projects.nitrc.org/indi/abide/](https://fcon_1000.projects.nitrc.org/indi/abide/)
 
+We used also ADHD data in our study, here "ADHD_subset" is provided and consists of preprocessed functional data containing:
+- **75 individuals** with Attention deficit hyperactivity disorder (ADHD)
+- **75 typically control developing (TDC)** controls
+
+Full dataset can be found in: [https://fcon_1000.projects.nitrc.org/indi/adhd200/](https://fcon_1000.projects.nitrc.org/indi/adhd200/) 
 
 
 ## Project Structure
