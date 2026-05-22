@@ -47,15 +47,15 @@ To access the complete dataset, please refer to the ABIDE (Autism Brain Imaging 
 
 ## Project Structure
 
-### 1. CBT Generation with Reservoir Computing
+### 1. HyperCBT Generation with Reservoir Computing
 
-- **File**: `cbt_generation.py`
-- **Goal**: Generate population-level CBTs using RC
+- **File**: `Hypercbt_generation.py`
+- **Goal**: Generate population-level HyperCBTs using RC
 
 ### 2. Multi-Sensory Memory Capacity Evaluation
 
 - **File**: `multi_sensory_memory_capacity.py`
-- **Goal**: Validate the memory/cognitive capacity of CBTs using multi-sensory streams (visual, audio, language).
+- **Goal**: Validate the memory/cognitive capacity of HyperCBTs using multi-sensory streams (visual, audio, language).
 
 #### Sensory inputs: 
 - **Visual**: we used MNIST dataset to meansure the visual memory capacity of the cognitive reservoir.
